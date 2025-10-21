@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">pr21_Zykova</string>
+    <string name="enter">Вход</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="opisanie_not">Описание (необязательно)</string>
+    <string name="task_name">Название задачи</string>
+    <string name="cancle">Отмена</string>
+    <string name="save">Сохранить</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="My_task">Мои задачи</string>
+    <string name="exit">Выйти</string>
+    <string name="name_task">Название задачи</string>
+    <string name="list">Список дел</string>
+</resources>
